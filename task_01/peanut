@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""Butter and oil truthy or falsy"""
+
+
+BUTTER = 'I am Truthy'
+
+OIL = 'I am Falsy'

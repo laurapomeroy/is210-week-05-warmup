@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""How truthy are you too?"""
+
+
+import task_01.peanut
+
+TIME = peanut.BUTTER
